@@ -1,4 +1,4 @@
-# Fisher-Yates_shuffle_algorithm
+# Fisher-Yates Shuffle Algorithm
 
 The Fisher-Yates shuffle is a randomization algorithm for shuffling the elements of an array. 
 It is named after Ronald Fisher and Frank Yates, who first described it in their book 
