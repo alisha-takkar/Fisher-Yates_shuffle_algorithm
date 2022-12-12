@@ -35,6 +35,7 @@ To shuffle an array a of n elements (indices 0..n-1):
 
 - https://www.tutorialspoint.com/what-is-fisher-yates-shuffle-in-javascript
 - https://medium.com/@omar.rashid2/fisher-yates-shuffle-a2aa15578d2f
+- https://www.geeksforgeeks.org/shuffle-a-given-array-using-fisher-yates-shuffle-algorithm/
 
 ## Vodeos
 
