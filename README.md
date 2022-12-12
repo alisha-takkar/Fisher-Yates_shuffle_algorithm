@@ -20,6 +20,13 @@ shuffling very large arrays that cannot fit into memory.
 
 Overall, the Fisher-Yates shuffle is a simple and effective algorithm for randomly shuffling the elements of an array.
 
+```
+To shuffle an array a of n elements (indices 0..n-1):
+  for i from n - 1 downto 1 do
+       j = random integer with 0 <= j <= i
+       exchange a[j] and a[i]
+```
+
 ## Implemented In
 
 - JavaScript
