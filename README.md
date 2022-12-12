@@ -23,3 +23,12 @@ Overall, the Fisher-Yates shuffle is a simple and effective algorithm for random
 ## Implemented In
 
 - JavaScript
+
+## Articles
+
+- https://www.tutorialspoint.com/what-is-fisher-yates-shuffle-in-javascript
+- https://medium.com/@omar.rashid2/fisher-yates-shuffle-a2aa15578d2f
+
+## Vodeos
+
+- https://youtu.be/tLxBwSL3lPQ
